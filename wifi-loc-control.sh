@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 LOGS_PATH=$HOME/Library/Logs/WiFiLocControl.log
-DEFAULT_NETWORK_LOCATION=Automatic
+DEFAULT_NETWORK_LOCATION=Public
 CONFIG_DIR=$HOME/.wifi-loc-control
 ALIAS_CONFIG_PATH=$CONFIG_DIR/alias.conf
 
